@@ -7,6 +7,7 @@ Este repositório contém o projeto de um aplicativo de lista de tarefas desenvo
    <img src="/assets/print1.jpg" alt="Printscreen do app" width="200px" style="margin: 10px;">
    <img src="/assets/print2.jpg" alt="Printscreen do app" width="200px" style="margin: 10px;">
    </p>
+
 ### 📝 Funcionalidades Principais
 
 1. **Adição de Tarefas:**
